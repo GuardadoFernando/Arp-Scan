@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 from os import system, name 
 from scapy.all import ARP, Ether, srp
 import socket
